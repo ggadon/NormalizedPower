@@ -16,7 +16,7 @@ class NormalizedPowerApp extends Application.AppBase {
 
     // Return the initial view of your application here
     function getInitialView() {
-        return [ new NormalizedPowerView() ];
+        return [ new NormalizedPowerLapView() ];
     }
 
 }

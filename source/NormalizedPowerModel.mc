@@ -31,7 +31,7 @@ class NormalizedPowerModel {
 	}
 	
 	// Assuming this compute is being called every 1 sec 
-    function compute(info) {
+    function tick(info) {
     	var currPower = 0;
     	if (info has :currentPower) {
     		currPower = info.currentPower == null ? 0 : info.currentPower; 
@@ -40,7 +40,7 @@ class NormalizedPowerModel {
     	calcCurrentMovingAvgValue(currPower);
     	if (!initialized) {
     		// We must wait 30 seconds before NP is valid
-    		return 0;
+    		return null;
     	}
     	
     	adaptForthPoweredAvg();

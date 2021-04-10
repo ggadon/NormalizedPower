@@ -12,36 +12,32 @@ class NormalizedPowerView extends WatchUi.SimpleDataField {
         label = "NP";
         model = new NormalizedPowerModel();
         active = false;
-        lastResult = 0;
+        lastResult = null;
     }
     
     function compute(info) {
     	if (active) {
-    		lastResult = model.compute(info);
+    		lastResult = model.tick(info);
     	}
     	
     	return lastResult;
     }
     
     function onTimerStart() {
-    	System.println("Starting timer");
     	active = true;
     }
  	
  	function onTimerStop() {
- 		System.println("Stopping timer");
  		active = false;
  		lastResult = 0;
  		model.reset();
  	}
  	
  	function onTimerResume() {
- 		System.println("Resuming");
  		active = true;
  	}
  	
  	function onTimerPause() {
- 		System.println("Pausing");
  		active = false;
  	}
 }
