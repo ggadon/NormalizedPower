@@ -25,49 +25,49 @@
         <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="10" lineNum="40" pc="268436216" symbol="tick"/>
         <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="10" lineNum="41" pc="268436230" symbol="tick"/>
         <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="10" lineNum="43" pc="268436242" symbol="tick"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="10" lineNum="46" pc="268436247" symbol="tick"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="10" lineNum="47" pc="268436259" symbol="tick"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="10" lineNum="49" pc="268436271" symbol="tick"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="11" lineNum="57" pc="268436281" symbol="calcCurrentMovingAvgValue"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="11" lineNum="58" pc="268436285" symbol="calcCurrentMovingAvgValue"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="11" lineNum="59" pc="268436328" symbol="calcCurrentMovingAvgValue"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="11" lineNum="60" pc="268436365" symbol="calcCurrentMovingAvgValue"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="11" lineNum="61" pc="268436384" symbol="calcCurrentMovingAvgValue"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="11" lineNum="64" pc="268436412" symbol="calcCurrentMovingAvgValue"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="11" lineNum="65" pc="268436444" symbol="calcCurrentMovingAvgValue"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="11" lineNum="66" pc="268436465" symbol="calcCurrentMovingAvgValue"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="12" lineNum="75" pc="268436479" symbol="adaptForthPoweredAvg"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="12" lineNum="76" pc="268436483" symbol="adaptForthPoweredAvg"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="12" lineNum="77" pc="268436500" symbol="adaptForthPoweredAvg"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="12" lineNum="79" pc="268436552" symbol="adaptForthPoweredAvg"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="12" lineNum="81" pc="268436568" symbol="adaptForthPoweredAvg"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="13" lineNum="87" pc="268436588" symbol="calculateValue"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="13" lineNum="88" pc="268436592" symbol="calculateValue"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerLapView.mc" id="15" lineNum="6" pc="268436638" symbol="initialize"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerLapView.mc" id="15" lineNum="7" pc="268436642" symbol="initialize"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerLapView.mc" id="15" lineNum="8" pc="268436660" symbol="initialize"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerLapView.mc" id="16" lineNum="11" pc="268436674" symbol="onTimerLap"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerLapView.mc" id="16" lineNum="12" pc="268436678" symbol="onTimerLap"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="18" lineNum="10" pc="268436697" symbol="initialize"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="18" lineNum="11" pc="268436701" symbol="initialize"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="18" lineNum="12" pc="268436719" symbol="initialize"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="18" lineNum="13" pc="268436732" symbol="initialize"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="18" lineNum="14" pc="268436762" symbol="initialize"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="18" lineNum="15" pc="268436772" symbol="initialize"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="19" lineNum="18" pc="268436782" symbol="compute"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="19" lineNum="19" pc="268436786" symbol="compute"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="19" lineNum="20" pc="268436797" symbol="compute"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="19" lineNum="23" pc="268436827" symbol="compute"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="20" lineNum="26" pc="268436837" symbol="onTimerStart"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="20" lineNum="27" pc="268436841" symbol="onTimerStart"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="21" lineNum="30" pc="268436852" symbol="onTimerStop"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="21" lineNum="31" pc="268436856" symbol="onTimerStop"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="21" lineNum="32" pc="268436866" symbol="onTimerStop"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="21" lineNum="33" pc="268436879" symbol="onTimerStop"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="22" lineNum="36" pc="268436898" symbol="onTimerResume"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="22" lineNum="37" pc="268436902" symbol="onTimerResume"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="23" lineNum="40" pc="268436913" symbol="onTimerPause"/>
-        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="23" lineNum="41" pc="268436917" symbol="onTimerPause"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="10" lineNum="46" pc="268436251" symbol="tick"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="10" lineNum="47" pc="268436263" symbol="tick"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="10" lineNum="49" pc="268436275" symbol="tick"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="11" lineNum="57" pc="268436285" symbol="calcCurrentMovingAvgValue"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="11" lineNum="58" pc="268436289" symbol="calcCurrentMovingAvgValue"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="11" lineNum="59" pc="268436332" symbol="calcCurrentMovingAvgValue"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="11" lineNum="60" pc="268436369" symbol="calcCurrentMovingAvgValue"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="11" lineNum="61" pc="268436388" symbol="calcCurrentMovingAvgValue"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="11" lineNum="64" pc="268436416" symbol="calcCurrentMovingAvgValue"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="11" lineNum="65" pc="268436448" symbol="calcCurrentMovingAvgValue"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="11" lineNum="66" pc="268436469" symbol="calcCurrentMovingAvgValue"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="12" lineNum="75" pc="268436483" symbol="adaptForthPoweredAvg"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="12" lineNum="76" pc="268436487" symbol="adaptForthPoweredAvg"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="12" lineNum="77" pc="268436504" symbol="adaptForthPoweredAvg"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="12" lineNum="79" pc="268436556" symbol="adaptForthPoweredAvg"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="12" lineNum="81" pc="268436572" symbol="adaptForthPoweredAvg"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="13" lineNum="87" pc="268436592" symbol="calculateValue"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerModel.mc" id="13" lineNum="88" pc="268436596" symbol="calculateValue"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerLapView.mc" id="15" lineNum="6" pc="268436642" symbol="initialize"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerLapView.mc" id="15" lineNum="7" pc="268436646" symbol="initialize"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerLapView.mc" id="15" lineNum="8" pc="268436664" symbol="initialize"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerLapView.mc" id="16" lineNum="11" pc="268436678" symbol="onTimerLap"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerLapView.mc" id="16" lineNum="12" pc="268436682" symbol="onTimerLap"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="18" lineNum="10" pc="268436701" symbol="initialize"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="18" lineNum="11" pc="268436705" symbol="initialize"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="18" lineNum="12" pc="268436723" symbol="initialize"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="18" lineNum="13" pc="268436736" symbol="initialize"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="18" lineNum="14" pc="268436766" symbol="initialize"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="18" lineNum="15" pc="268436776" symbol="initialize"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="19" lineNum="18" pc="268436790" symbol="compute"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="19" lineNum="19" pc="268436794" symbol="compute"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="19" lineNum="20" pc="268436805" symbol="compute"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="19" lineNum="23" pc="268436835" symbol="compute"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="20" lineNum="26" pc="268436845" symbol="onTimerStart"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="20" lineNum="27" pc="268436849" symbol="onTimerStart"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="21" lineNum="30" pc="268436860" symbol="onTimerStop"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="21" lineNum="31" pc="268436864" symbol="onTimerStop"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="21" lineNum="32" pc="268436874" symbol="onTimerStop"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="21" lineNum="33" pc="268436887" symbol="onTimerStop"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="22" lineNum="36" pc="268436906" symbol="onTimerResume"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="22" lineNum="37" pc="268436910" symbol="onTimerResume"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="23" lineNum="40" pc="268436921" symbol="onTimerPause"/>
+        <entry filename="/Users/ggadon/eclipse-workspace-2/NormalizedPower/source/NormalizedPowerView.mc" id="23" lineNum="41" pc="268436925" symbol="onTimerPause"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
@@ -129,11 +129,11 @@
     <localVars>
         <entry arg="true" endPc="268435484" name="state" stackId="1" startPc="268435479"/>
         <entry arg="true" endPc="268435489" name="state" stackId="1" startPc="268435484"/>
-        <entry endPc="268436280" name="currPower" stackId="2" startPc="268436164"/>
-        <entry arg="true" endPc="268436281" name="info" stackId="1" startPc="268436160"/>
-        <entry endPc="268436478" name="forthPoweredPowerMovingAvgPart" stackId="2" startPc="268436285"/>
-        <entry arg="true" endPc="268436479" name="currentPower" stackId="1" startPc="268436281"/>
-        <entry arg="true" endPc="268436837" name="info" stackId="1" startPc="268436782"/>
+        <entry endPc="268436284" name="currPower" stackId="2" startPc="268436164"/>
+        <entry arg="true" endPc="268436285" name="info" stackId="1" startPc="268436160"/>
+        <entry endPc="268436482" name="forthPoweredPowerMovingAvgPart" stackId="2" startPc="268436289"/>
+        <entry arg="true" endPc="268436483" name="currentPower" stackId="1" startPc="268436285"/>
+        <entry arg="true" endPc="268436845" name="info" stackId="1" startPc="268436790"/>
     </localVars>
     <annotations/>
     <dataEntryOffsetMappings>

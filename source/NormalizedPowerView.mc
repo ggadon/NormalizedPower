@@ -12,7 +12,7 @@ class NormalizedPowerView extends WatchUi.SimpleDataField {
         label = "NP";
         model = new NormalizedPowerModel();
         active = false;
-        lastResult = null;
+        lastResult = "---";
     }
     
     function compute(info) {
@@ -29,7 +29,7 @@ class NormalizedPowerView extends WatchUi.SimpleDataField {
  	
  	function onTimerStop() {
  		active = false;
- 		lastResult = 0;
+ 		lastResult = "---";
  		model.reset();
  	}
  	
