@@ -1,0 +1,7 @@
+<layout id="Main" background="Graphics.COLOR_BLACK">
+    <label id="TitleLabel" x="5" y="5" text="@Strings.Title" font="Graphics.FONT_MEDIUM" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+    <label id="LapNPTitleLabel" x="20" y="40" text="@Strings.LapNPTitle" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+    <label id="LapNPValueLabel" x="115" y="40" text="@Strings.LapNPValue" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+    <label id="TotalNPTitleLabel" x="20" y="75" text="@Strings.TotalNPTitle" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+    <label id="TotalNPValueLabel" x="115" y="75" text="@Strings.TotalNPValue" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+</layout>

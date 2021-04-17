@@ -1,3 +1,8 @@
-<strings>
+<resources>
     <string id="AppName">Lap Normalized Power</string>
-</strings>
+    <string id="Title">Perfect NP</string>
+    <string id="LapNPTitle">Lap</string>
+    <string id="LapNPValue">---</string>
+    <string id="TotalNPTitle">Ride</string>
+    <string id="TotalNPValue">---</string>
+</resources>

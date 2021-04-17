@@ -40,7 +40,7 @@ class NormalizedPowerModel {
     	calcCurrentMovingAvgValue(currPower);
     	if (!initialized) {
     		// We must wait 30 seconds before NP is valid
-    		return "---";
+    		return -1;
     	}
     	
     	adaptForthPoweredAvg();
